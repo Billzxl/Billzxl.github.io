@@ -9,27 +9,22 @@ redirect_from:
 ---
 
 
-I am a Ph.D. student at the [Artificial Intelligence Institute](https://ai.sjtu.edu.cn/), [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/). My research interest includes Large Language Model (LLM) related Agent research and Retrieval-Augmented Generation (RAG) research. I also have some research on Graph Neural Network (GNN) and Gaussian Process (GP). 
+I am a Ph.D. student at [Artificial Intelligence Institute](https://ai.sjtu.edu.cn/), [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/). My research interest includes Large Language Model (LLM) related Agent research and Retrieval-Augmented Generation (RAG) research. I also have some research on Graph Neural Network (GNN) and Gaussian Process (GP). 
 
 <!-- You can find my CV here:[Xilong Zhao's Curriculum Vitae](../assets/) -->
 Email: zhaoxilong@sjtu.edu.cn ([Email Me](mailto:zhaoxilong@sjtu.edu.cn))
 
 
 
-Educational experience
+Educational Experience
 ======
 B.S. in Shanghai Jiao Tong University, 2018-2022 
 
 M.S. and Ph.D. in Shanghai Jiao Tong University, 2022-2027(Expected)  
 
-Getting started
+Research Interests
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+Large Language Model Agent | Retrieval-Augmented Generation |  Graph Neural Network | Gaussian Process
 
 Site-wide configuration
 ------
