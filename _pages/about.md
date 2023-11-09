@@ -27,7 +27,7 @@ Honors and Awards
 ======
 * National Scholarship
 * Shanghai Jiao Tong University A Level Scholarship
-* Outstanding Graduate of Shanghai Jiaotong University
+* Outstanding Graduate of Shanghai Jiao Tong University
 
 Work Experience
 ======
