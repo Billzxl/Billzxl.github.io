@@ -20,22 +20,24 @@ Large Language Model Agent | Retrieval-Augmented Generation |  Graph Neural Netw
 
 Educational Experience
 ======
-B.S. in Shanghai Jiao Tong University, 2018-2022 
-
-M.S. and Ph.D. in Shanghai Jiao Tong University, 2022-2027(Expected)  
+*B.S. in Shanghai Jiao Tong University, 2018-2022 
+*M.S. and Ph.D. in Shanghai Jiao Tong University, 2022-2027(Expected)  
 
 Honors and Awards
 ======
-National Scholarship
-Shanghai Jiao Tong University A Level Scholarship
+*National Scholarship
+*Shanghai Jiao Tong University A Level Scholarship
+*Outstanding Graduate of Shanghai Jiaotong University
 
 Work Experience
 ======
-Applied Scientist Intern, Amazon Web Services AI Shanghai Lablet 2022.2 - 2022.8
+*Applied Scientist Intern, Amazon Web Services AI Shanghai Lablet 2022.2 - 2022.8
 
 Skills
 ======
-Python, C++ [My Leetcode](leetcode.cn/u/billzxl/)
+*Python, 
+*C++ 
+[My Leetcode](leetcode.cn/u/billzxl/)
 
 Publication
 ======
