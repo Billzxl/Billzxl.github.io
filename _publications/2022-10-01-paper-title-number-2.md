@@ -8,5 +8,3 @@ paperurl: 'http://academicpages.github.io/files/paper2.pdf'
 ---
 Kounianhua Du, Weinan Zhang, Ruiwen Zhou, Yangkun Wang, **Xilong Zhao**, Jiarui Jin, Quan Gan, Zheng Zhang, David P Wipf
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
