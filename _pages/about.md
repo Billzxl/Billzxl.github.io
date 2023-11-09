@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 
-I am a Ph.D. student at the Artificial Intelligence Institute, Shanghai Jiao Tong University. My research interest includes Large Language Model (LLM) related Agent research and Retrieval-Augmented Generation (RAG) research. I also have some research on Graph Neural Network (GNN) and Gaussian Process (GP).
+I am a Ph.D. student at the Artificial Intelligence Institute, Shanghai Jiao Tong University. My research interest includes Large Language Model (LLM) related Agent research and Retrieval-Augmented Generation (RAG) research. I also have some research on Graph Neural Network (GNN) and Gaussian Process (GP). You can find my CV here:[Xilong Zhao's Curriculum Vitae](../assets/)
 
-[My Email](mailto:zhaoxilong@sjtu.edu.cn)
+Email: zhaoxilong@sjtu.edu.cn ([Email Me](mailto:zhaoxilong@sjtu.edu.cn))
 
 
 
