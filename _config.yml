@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Xilong Zhao 赵禧龙"
   avatar           : "赵禧龙.jpg"
-  bio              : "A PhD student in CS specializing in LLM (large language model), GNN (graph neural network) and GP (Gaussian process). "
+  bio              : "a PhD student in the field of Computer Science from Shanghai Jiao Tong University, specializing in LLM (large language model), GNN (graph neural network) and GP (Gaussian process). "
   location         : "China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
