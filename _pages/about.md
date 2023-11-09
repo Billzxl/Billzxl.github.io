@@ -39,8 +39,3 @@ Skills
 * C++ 
 [My Leetcode](leetcode.cn/u/billzxl/)
 
-Publication
-======
-
-Projects
-======
