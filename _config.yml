@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Xilong Zhao 赵禧龙"
-  avatar           : "profile.png"
+  avatar           : "赵禧龙.jpg"
   bio              : "A PhD student in CS specializing in GNN (graph neural network), GP (Gaussian process) and LLM (large language model)"
   location         : "Location"
   employer         :
