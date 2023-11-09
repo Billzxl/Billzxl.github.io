@@ -26,11 +26,13 @@ M.S. and Ph.D. in Shanghai Jiao Tong University, 2022-2027(Expected)
 
 
 Work Experience
-Data Scientist Intern, AWS 2022.
+======
+Applied Scientist Intern, Amazon Web Services AI Shanghai Lablet 2022.2 - 2022.8
 
 
 Skills
 ======
+Python, C++ [My Leetcode](leetcode.cn/u/billzxl/)
 
 Publication
 ======
