@@ -22,12 +22,11 @@ Large Language Model Agent | Retrieval-Augmented Generation |  Graph Neural Netw
 Educational Experience
 ======
 B.S. in Shanghai Jiao Tong University, 2018-2022 
-
 M.S. and Ph.D. in Shanghai Jiao Tong University, 2022-2027(Expected)  
 
 
 Work Experience
-======
+Data Scientist Intern, AWS 2022.
 
 
 Skills
