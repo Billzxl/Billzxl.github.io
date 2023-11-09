@@ -11,7 +11,7 @@ redirect_from:
 
 I am a Ph.D. student at the Artificial Intelligence Institute, Shanghai Jiao Tong University. My research interest includes Large Language Model (LLM) related Agent research and Retrieval-Augmented Generation (RAG) research. I also have some research on Graph Neural Network (GNN) and Gaussian Process (GP).
 
-[Email](zhaoxilong@sjtu.edu.cn)
+[My Email](zhaoxilong@sjtu.edu.cn)
 
 
 
