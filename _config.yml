@@ -83,9 +83,9 @@ author:
   name             : "Xilong Zhao 赵禧龙"
   avatar           : "赵禧龙.jpg"
   bio              : "A PhD student in CS specializing in LLM (large language model), GNN (graph neural network) and GP (Gaussian process). "
-  location         : "Location"
+  location         : "China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "zhaoxilong@sjtu.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
