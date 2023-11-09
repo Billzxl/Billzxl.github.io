@@ -8,7 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-我是上海交通大学人工智能研究院的在读博士生。我目前的主要研究方向是大语言模型（Large Language Model, LLM）相关的Agent研究与检索增强生成（Retrieval-Augmented Generation，RAG）研究。我也对图神经网络（Graph Neural Network，GNN）和高斯过程（Guassian Process，GP）有一定研究。
+
+I am a Ph.D. student at the Artificial Intelligence Institute, Shanghai Jiao Tong University. My current main research interests are Large Language Model (LLM) related Agent research and Retrieval-Augmented Generation (RAG) research. I also have some research on Graph Neural Network (GNN) and Gaussian Process (GP).
+
+
 
 A data-driven personal website
 ======
