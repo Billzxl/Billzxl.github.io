@@ -18,9 +18,9 @@ Email: zhaoxilong@sjtu.edu.cn ([Email Me](mailto:zhaoxilong@sjtu.edu.cn))
 
 Educational experience
 ======
-2018-2022 B.S., Shanghai Jiao Tong University
+B.S.in Shanghai Jiao Tong University, 2018-2022 
 
-2022-2027(Expected)  M.S. and Ph.D, Shanghai Jiao Tong University
+M.S. and Ph.D, Shanghai Jiao Tong University, 2022-2027(Expected)  
 
 Getting started
 ======
