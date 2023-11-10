@@ -35,7 +35,6 @@ Work Experience
 
 Skills
 ======
-* Python
-* C++ 
-[My Leetcode](https://leetcode.cn/u/billzxl/)
+* Programming language: Python C++ [My Leetcode](https://leetcode.cn/u/billzxl/)
+* Pytorch
 
