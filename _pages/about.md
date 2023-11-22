@@ -37,5 +37,6 @@ Skills
 ======
 * Programming language: Python, C++
 * Pytorch
-* LLM fine-tune: PEFT
+* LLM fine-tuning
+* RAG
 
