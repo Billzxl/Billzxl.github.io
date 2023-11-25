@@ -35,7 +35,7 @@ Work Experience
   
    Topic: Graph Neural Networks, Data Mining
   
-   Advisor: [Quan Gan](https://www.amazon.science/author/quan-gan)
+   Advisor: Quan Gan
 
 Research Experience
 ======
