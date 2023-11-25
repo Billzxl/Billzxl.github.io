@@ -16,7 +16,7 @@ Email: zhaoxilong@sjtu.edu.cn ([Email Me](mailto:zhaoxilong@sjtu.edu.cn))
 
 Research Interests
 ======
-Large Language Model Agent | Retrieval-Augmented Generation |  Graph Neural Network | Gaussian Process
+Large Language Model | Retrieval-Augmented Generation |  Graph Neural Network | Gaussian Process
 
 Educational Experience
 ======
