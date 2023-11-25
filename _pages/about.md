@@ -25,7 +25,7 @@ Educational Experience
 
 Honors and Awards
 ======
-* National Scholarship
+* National Scholarship (Top 0.2% national-wide)
 * Shanghai Jiao Tong University A Level Excellent Scholarship
 * Outstanding Graduate of Shanghai Jiao Tong University
 
