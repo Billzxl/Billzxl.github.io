@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Xilong Zhao 赵禧龙"
-  avatar           : "赵禧龙.jpg"
+  avatar           : "photo.jpg"
   bio              : "A PhD student at the Artificial Intelligence Institute, Shanghai Jiao Tong University, specializing in LLM (large language model), GNN (graph neural network), and GP (Gaussian process). "
   location         : "China"
   employer         :
