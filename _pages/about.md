@@ -32,7 +32,7 @@ Honors and Awards
 Work Experience
 ======
 * Applied Scientist Intern, Amazon Web Services AI Shanghai Lablet, 2022.2 - 2022.8
-    Topic: Graph Neural Networks, Data Mining  Advisor: [Quan Gan](https://www.amazon.science/author/quan-gan)
+-    Topic: Graph Neural Networks, Data Mining  Advisor: [Quan Gan](https://www.amazon.science/author/quan-gan)
 
 
 Skills
