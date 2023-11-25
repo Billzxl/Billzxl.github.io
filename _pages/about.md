@@ -32,9 +32,29 @@ Honors and Awards
 Work Experience
 ======
 * Applied Scientist Intern, Amazon Web Services AI Shanghai Lablet, 2022.2 - 2022.8
--    Topic: Graph Neural Networks, Data Mining  Advisor: [Quan Gan](https://www.amazon.science/author/quan-gan)
+  
+   Topic: Graph Neural Networks, Data Mining
+  
+   Advisor: [Quan Gan](https://www.amazon.science/author/quan-gan)
 
-
+Research Experience
+======
+* Researcher, MVIGLab, 2019.11 - 2021.07
+  
+   Topic: Computer Vision
+  
+   Advisor: Cewu Lu
+* Researcher, APEXLab, 2021.07 - 2022.06
+  
+   Topic:  Data Mining
+  
+   Advisor: Weinan Zhang
+* Researcher, OMNILab, 2022.09 - present
+  
+   Topic: Large Language Models
+  
+   Advisor: Yaohui Jin
+  
 Skills
 ======
 * Programming language: Python, C++
