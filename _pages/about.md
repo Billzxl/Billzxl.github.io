@@ -27,7 +27,7 @@ Educational Experience
 Honors and Awards
 ======
 * National Scholarship (Top 0.2% national-wide)
-* Shanghai Jiao Tong University A Level Excellent Scholarship (Top 1% in CS Dept.)
+* A-Level Excellence Scholarship (Top 1% in CS Dept.)
 * Outstanding Graduate of Shanghai Jiao Tong University
 
 Work Experience
