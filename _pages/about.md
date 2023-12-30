@@ -20,8 +20,9 @@ Large Language Model | Retrieval-Augmented Generation |  Graph Neural Network | 
 
 Educational Experience
 ======
-* B.S. in Computer Science, Shanghai Jiao Tong University, 2018-2022 
 * M.S. and Ph.D. in Computer Science, Shanghai Jiao Tong University, 2022-2027(Expected)  
+* B.S. in Computer Science, Shanghai Jiao Tong University, 2018-2022 
+
 
 Honors and Awards
 ======
