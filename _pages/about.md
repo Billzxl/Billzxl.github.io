@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Xilong Zhao"
-excerpt: "Xilong Zhao"
+title: "About Me"
+excerpt: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
