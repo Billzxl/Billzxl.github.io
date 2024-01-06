@@ -1,6 +1,25 @@
 {% include base_path %}
 
 <!-- begin SEO -->
+
+<html>
+  <head>
+    <script type="application/ld+json">
+    {
+      "@context" : "https://schema.org",
+      "@type": "WebSite",
+      "name": "Xilong Zhao",
+      "alternateName": ["XLZhao", "XLzhao", "Xilong"],
+      "url": "https://billzxl.github.io/"
+    }
+  </script>
+  </head>
+  <body>
+  </body>
+</html>
+
+
+
 {% if site.url %}
   {% assign seo_url = site.url | append: site.baseurl %}
 {% endif %}
@@ -136,21 +155,6 @@
 {% endif %}
 
 
-<html>
-  <head>
-    <title>Xilong Zhao</title>
-    <script type="application/ld+json">
-    {
-      "@context" : "https://schema.org",
-      "@type": "WebSite",
-      "name": "Xilong Zhao",
-      "url": "https://billzxl.github.io/"
-    }
-  </script>
-  </head>
-  <body>
-  </body>
-</html>
 
 
 
